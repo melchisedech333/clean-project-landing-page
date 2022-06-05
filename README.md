@@ -46,6 +46,15 @@ Resources:
 
 ### Bootstrap
 
+Website: https://getbootstrap.com/
+Examples: https://getbootstrap.com/docs/5.2/examples/
+
+
+### Highlight.js
+
+Syntax highlighting librarie.
+
+Link: https://highlightjs.org/usage/
 
 
 :smiley: Author
