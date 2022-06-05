@@ -18,6 +18,8 @@ Demonstration: <a href="https://melchisedech333.github.io/projects/clean-project
 * [License](https://github.com/verbum-paper/verbum-paper#scroll-license)
 -----
 
+<br>
+
 
 :hammer_and_wrench: Installation
 ---
