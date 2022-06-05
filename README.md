@@ -5,6 +5,8 @@
 
 The purpose of creating the "Clean Project Landing Page" is to have a simple and objective Bootstrap Template, to be used in small projects.
 
+Demonstration: <a href="https://melchisedech333.github.io/projects/clean-project/index.html">https://melchisedech333.github.io/projects/clean-project/</a>
+
 <br>
 
 :bookmark_tabs: Table of Contents
