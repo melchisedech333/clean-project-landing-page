@@ -3,7 +3,7 @@
 
 # <div align=center><img src="./extras/images/1.png" width="70%"></div>
 
-The purpose of creating the "Clean Project Landing Page" is to have a simple and objective Bootstrap Template, to be used in small projects.
+The purpose of creating the "Clean Project - Landing Page" is to have a simple and objective Bootstrap Template, to be used in small projects.
 
 Demonstration: <a href="https://melchisedech333.github.io/projects/clean-project/index.html">https://melchisedech333.github.io/projects/clean-project/</a>
 
