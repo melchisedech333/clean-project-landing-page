@@ -1,0 +1,22 @@
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #444;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #000000;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #000000;
+}
+
+.nav-details {
+  background-color: white;
+  z-index: 31337 !important;
+}
+/*# sourceMappingURL=style.css.map */
