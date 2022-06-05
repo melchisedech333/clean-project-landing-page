@@ -19,4 +19,15 @@
   background-color: white;
   z-index: 31337 !important;
 }
+
+.section-title {
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.section-description {
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
+}
 /*# sourceMappingURL=style.css.map */
