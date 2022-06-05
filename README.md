@@ -1,7 +1,7 @@
 
 <h2 align=center><b>Clean Project - Landing Page</b></h2>
 
-# <div align=center><img src="./extras/images/1.png" width="100%"></div>
+# <div align=center><img src="./extras/images/1.png" width="70%"></div>
 
 The purpose of creating the "Clean Project Landing Page" is to have a simple and objective Bootstrap Template, to be used in small projects.
 
