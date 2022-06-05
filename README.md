@@ -12,10 +12,10 @@ Demonstration: <a href="https://melchisedech333.github.io/projects/clean-project
 :bookmark_tabs: Table of Contents
 -----
 * [Installation](#hammer_and_wrench-installation)
-* [Features](https://github.com/verbum-paper/verbum-paper#heavy_plus_sign-features)
-* [References and Links](https://github.com/verbum-paper/verbum-paper#link-references-and-links)
-* [Author](https://github.com/verbum-paper/verbum-paper#smiley-author)
-* [License](https://github.com/verbum-paper/verbum-paper#scroll-license)
+* [Features](#heavy_plus_sign-features)
+* [References and Links](#link-references-and-links)
+* [Author](#smiley-author)
+* [License](#scroll-license)
 -----
 
 <br>
