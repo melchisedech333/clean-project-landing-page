@@ -1,2 +1,7 @@
-# clean-project-landing-page
-🌍 Landing Page for small projects.
+# Clean Project Landing Page
+
+Site sections:
+- Navbar ()
+- Footer
+
+
