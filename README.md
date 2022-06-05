@@ -46,7 +46,7 @@ Resources:
 
 ### Bootstrap
 
-Website: https://getbootstrap.com/
+Website: https://getbootstrap.com/<br>
 Examples: https://getbootstrap.com/docs/5.2/examples/
 
 
