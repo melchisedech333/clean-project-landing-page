@@ -28,6 +28,7 @@ To download the template, clone the directory.
 ```bash
 git clone https://github.com/melchisedech333/clean-project-landing-page.git
 ```
+<br>
 
 
 :heavy_plus_sign: Features
@@ -41,6 +42,7 @@ Resources:
 - Project features area.
 - Footer with general information (author and license).
 
+<br>
 
 :link: References and Links
 ---
@@ -57,6 +59,7 @@ Syntax highlighting librarie.
 
 Link: https://highlightjs.org/usage/
 
+<br>
 
 :smiley: Author
 ---
@@ -68,6 +71,7 @@ LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152
 
 <img src="https://github.com/melchisedech333.png?size=200" height="100" />
 
+<br>
 
 :scroll: License
 ---
