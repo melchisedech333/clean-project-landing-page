@@ -13,9 +13,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" 
         integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" 
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/highlight.min.js"
-        integrity="sha512-yUUc0qWm2rhM7X0EFe82LNnv2moqArj5nro/w1bi05A09hRVeIZbN6jlMoyu0+4I/Bu4Ck/85JQIU82T82M28w=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/styles/default.min.css">
   <link rel="stylesheet" href="./css/style.css" />
 
 </head>
@@ -89,7 +87,9 @@
               
               <div class="section-description" >
                 <p>
-                  Content here!
+                  <pre><code class="language-bash">
+git clone https://github.com/melchisedech333/clean-project-landing-page.git
+                  </code></pre>
                 </p>
               </div>
 
@@ -136,13 +136,17 @@
       </p>
       <p class="mb-0">
         <br>
-        Made with love &#10084;
+        Made with love, in Brazil &#10084;
       </p>
     </div>
   </footer>
 
   <script src="./libs/bootstrap-v5.2.0/js/bootstrap.bundle.min.js"></script>
-      
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/highlight.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/languages/javascript.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/languages/bash.min.js"></script>
+  <script>hljs.highlightAll();</script>
+
 </body>
 </html>
 
