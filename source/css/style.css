@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 ::-webkit-scrollbar {
   width: 7px;
   height: 7px;
@@ -20,8 +24,12 @@
   z-index: 31337 !important;
 }
 
+.section-area {
+  padding-top: 90px;
+}
+
 .section-title {
-  padding-bottom: 30px;
+  padding-bottom: 40px;
   text-align: center;
 }
 
@@ -29,5 +37,13 @@
   text-align: center;
   padding-left: 15%;
   padding-right: 15%;
+}
+
+.section-separator {
+  padding-top: 40px;
+}
+
+.section-end {
+  padding-bottom: 50px;
 }
 /*# sourceMappingURL=style.css.map */
