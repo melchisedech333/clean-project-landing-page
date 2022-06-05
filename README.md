@@ -30,22 +30,20 @@ git clone https://github.com/melchisedech333/clean-project-landing-page.git
 :heavy_plus_sign: Features
 ---
 
-### Copy to Clipboard
-
-To copy your document, in image form, to the Clipboard, click on the icon:
-
-<div align=center><img src="https://raw.githubusercontent.com/verbum-paper/verbum-paper/main/media/images/7.png" ></div>
-
+Resources:
+- Fixed Navbar (top menu).
+- Small presentation area.
+- Area for complete project presentation.
+- Installation area (Highlight.js support).
+- Project features area.
+- Footer with general information (author and license).
 
 
 :link: References and Links
 ---
 
-### Highlight.js
+### Bootstrap
 
-Syntax highlighting librarie.
-
-Link: https://highlightjs.org/usage/
 
 
 :smiley: Author
