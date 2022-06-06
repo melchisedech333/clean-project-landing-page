@@ -80,8 +80,4 @@ LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152
 
 <br>
 
-### Project Stats
-
-![Alt](https://repobeats.axiom.co/api/embed/7a1fd4f415d611cbd9fe715853239566dd20aa0e.svg "Repobeats analytics image")
-
 
