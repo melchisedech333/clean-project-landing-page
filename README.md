@@ -78,6 +78,4 @@ LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152
 
 [ BSD-3-Clause license](./LICENSE.txt) © Verbum Paper
 
-<br>
-
 
