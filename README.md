@@ -7,6 +7,8 @@ The purpose of creating the "Clean Project - Landing Page" is to have a simple a
 
 Demonstration: <a href="https://melchisedech333.github.io/projects/clean-project/index.html">https://melchisedech333.github.io/projects/clean-project/</a>
 
+**If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/melchisedech333) :blue_heart:** 
+
 <br>
 
 :bookmark_tabs: Table of Contents
