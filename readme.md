@@ -3,6 +3,8 @@
 
 # <div align=center><img src="./extras/images/1.png" width="70%"></div>
 
+Language: <a href="readme-pt.md">PT-BR</a>
+
 The purpose of creating the "Clean Project - Landing Page" is to have a simple and objective Bootstrap Template, to be used in small projects.
 
 Demonstration: <a href="https://melchisedech333.github.io/projects/clean-project/index.html">https://melchisedech333.github.io/projects/clean-project/</a>
@@ -79,6 +81,6 @@ LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152
 :scroll: License
 ---
 
-[ BSD-3-Clause license](./LICENSE.txt)
+[ BSD-3-Clause license](./license)
 
 
