@@ -1,7 +1,18 @@
 
 <h2 align=center><b>Clean Project - Landing Page</b></h2>
 
-# <div align=center><img src="./extras/images/1.png" width="70%"></div>
+# <div align=center><img src="extras/images/1.png" width="70%"></div>
+
+<p align="center">
+    <a href="https://github.com/sponsors/melchisedech333"><img src="https://img.shields.io/badge/patrocinar-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" ></a>
+    <br><br>
+    <img src="https://badgen.net/badge/nível de amor/6 de 10/purple" >
+    <img src="https://img.shields.io/github/languages/count/melchisedech333/clean-project-landing-page?color=%23f34b7d&label=linguagens" >
+    <img src="https://img.shields.io/github/languages/top/melchisedech333/clean-project-landing-page?color=%23f34b7d" >
+    <img src="https://img.shields.io/github/directory-file-count/melchisedech333/clean-project-landing-page?label=arquivos" >
+    <img src="https://img.shields.io/github/repo-size/melchisedech333/clean-project-landing-page?label=tamanho repo" >
+    <img src="https://img.shields.io/github/license/melchisedech333/clean-project-landing-page?label=licen%C3%A7a" >
+</p>
 
 Language: <a href="readme.md">EN-US</a>
 
